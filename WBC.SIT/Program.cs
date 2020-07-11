@@ -6,6 +6,11 @@ namespace WBC.SIT
     {
         static void Main(string[] args)
         {
+            Print();
+        }
+
+        static void Print()
+        {
             Console.WriteLine("Hello GIT");
         }
     }
